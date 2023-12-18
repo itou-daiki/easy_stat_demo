@@ -31,18 +31,16 @@ st.header("更新履歴")
 st.markdown("""
 #### **2023/12/7**
 - リポジトリを追加しました
-- GitHub（https://easystat-4-education.streamlit.app/）
-- Huggingface（https://huggingface.co/spaces/itou-daiki/easy_stat）      
+- GitHub（https://easystat-4-education-demo.streamlit.app/）
+- Huggingface（https://huggingface.co/spaces/itou-daiki/easy_stat_demo）      
 - 分析に変数選択に制限を設けました            
             
 #### **2023/10/28**
 - 一要因分散分析（対応なし）を実装しました
 - グラフタイトルの表示の有無を選択する機能を実装しました
-
 #### **2023/10/26**
 - データクレンジングページを実装しました
 - t検定で出力される図に、ブラケットと判定を表示できるようにしました。
-
 #### **2023/10/25**
 - テキストマイニングを実装しました
             
@@ -54,14 +52,11 @@ st.markdown("""
 #### **2023/09/01**
 - リポジトリを移動しました。
        
-
 #### **2023/08/01**
 - 簡易データサイエンス機能を実装しました
 - UIとその他の軽微な修正を行いました
-
 #### **2023/03/11**
 - 相関分析機能を実装しました
-
 #### **2023/03/06**
 - ｔ検定（対応あり・なし）を統合しました
 """)
@@ -72,9 +67,8 @@ st.markdown("""
 - [**AutoML DataScience**](https://huggingface.co/spaces/itou-daiki/pycaret_datascience_streamlit)
 - [**音のデータサイエンス**](https://audiovisualizationanalysis-bpeekdjwymuf6nkqcb4cqy.streamlit.app/)
 - [**フィードバックはこちらまで**](https://forms.gle/G5sMYm7dNpz2FQtU9)
-- [**ソースコードはこちら（GitHub）**](https://github.com/itou-daiki/easy_stat)
+- [**ソースコードはこちら（GitHub）**](https://github.com/itou-daiki/easy_stat_dmeo)
 """)
 
 # Copyright
 st.markdown('© 2022-2023 Dit-Lab.(Daiki Ito). All Rights Reserved.')
-
